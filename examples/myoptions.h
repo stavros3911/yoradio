@@ -47,9 +47,9 @@ The connection tables are located here https://github.com/e2002/yoradio#connecti
 //#define I2C_RST           -1                /*  I2C RST pin. Set to -1 if not used  */
 
 /*        I2S DAC                 */
-//#define I2S_DOUT          27                /*  DIN connection. Should be set to 255 if the board is not used */
-//#define I2S_BCLK          26                /*  BCLK Bit clock */
-//#define I2S_LRC           25                /*  WSEL Left Right Clock */
+//#define I2S_DOUT          6               /*  DIN connection. Should be set to 255 if the board is not used */
+//#define I2S_BCLK          7               /*  BCLK Bit clock */
+//#define I2S_LRC           8                /*  WSEL Left Right Clock */
 /******************************************/
 
 /*  VS1053 VSPI PINS. VS1053 SCK must be connected to pin 18
